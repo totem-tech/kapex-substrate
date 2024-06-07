@@ -17,7 +17,7 @@ log = "0.4"
 sp-api = { version = "4.0.0-dev", path = "../../primitives/api" }
 sp-blockchain = { version = "4.0.0-dev", path = "../../primitives/blockchain" }
 sc-client-api = { version = "4.0.0-dev", path = "../api" }
-# sp-consensus-beefy = { version = "4.0.0-dev", path = "../../primitives/consensus/beefy" }
+sp-consensus-beefy = { version = "4.0.0-dev", path = "../../primitives/consensus/beefy" }
 sp-consensus = { version = "0.10.0-dev", path = "../../primitives/consensus/common" }
 sp-core = { version = "21.0.0", path = "../../primitives/core" }
 sp-mmr-primitives = { version = "4.0.0-dev", path = "../../primitives/merkle-mountain-range" }
